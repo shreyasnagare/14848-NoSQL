@@ -1,1 +1,2 @@
 boto3==1.19.1
+jupyterlab==3.0.9
